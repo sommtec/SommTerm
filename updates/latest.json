@@ -1,0 +1,10 @@
+{
+  "payload": {
+    "version": "1.2.0",
+    "url": "https://raw.githubusercontent.com/sommtec/SommTerm/main/updates/SommTerm-1.2.0.exe",
+    "sha256": "396fac74472ea87fd5b9b268e17c93c5ed19c043f3bf951996c3828f2f4e1581",
+    "size": 17529656,
+    "notes": "Signierte Version 1.2.0"
+  },
+  "signature": "9Pb3gYHxZoOP4KPQR91R5MZeLteaxU1Hcxf/wN+4P8Gv/F3zus7z5gBk/c6wF5YU2xeknk3eC7OA5KlXqfYfCA=="
+}
